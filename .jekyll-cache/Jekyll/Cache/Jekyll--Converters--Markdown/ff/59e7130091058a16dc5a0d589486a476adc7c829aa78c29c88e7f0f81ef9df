@@ -1,4 +1,4 @@
-I"N<p>A list of all the posts and pages found on the site. For you robots out there is an <a href="/sitemap.xml">XML version</a> available for digesting as well.</p>
+I"<p>A list of all the posts and pages found on the site. For you robots out there is an <a href="/sitemap.xml">XML version</a> available for digesting as well.</p>
 
 <h2>Pages</h2>
 
@@ -139,7 +139,7 @@
     
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="/blog/post/" rel="permalink">github.io 블로그 시작하기
+        <a href="/blog/post/" rel="permalink">스터디
 </a>
       
     </h2>
@@ -153,7 +153,7 @@
 
 </p>
     
-    <p class="archive__item-excerpt" itemprop="description">GitHub Blog 서비스인 github.io 블로그 시작하기로 했다.
+    <p class="archive__item-excerpt" itemprop="description">변방의 헛소리.
 </p>
   </article>
 </div>

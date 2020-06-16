@@ -1,7 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-02T18:49:09+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Site Title</title><subtitle>An amazing website.</subtitle><author><name>Your Name</name></author><entry><title type="html">github.io 블로그 시작하기</title><link href="http://localhost:4000/blog/post/" rel="alternate" type="text/html" title="github.io 블로그 시작하기" /><published>2020-05-19T00:00:00+09:00</published><updated>2019-04-13T22:06:00+09:00</updated><id>http://localhost:4000/blog/post</id><content type="html" xml:base="http://localhost:4000/blog/post/">&lt;p&gt;GitHub Blog 서비스인 github.io 블로그 시작하기로 했다.
-GitHub Blog 서비스의 이름은 Pages이다.
-Pages가 다른 블로그 플랫폼 보다 편한 것 같아서 마음에 든다.
-다른 사람들도 같이 많이 사용했으면 좋겠다는 생각이 든다.
-YFM에서 정의한 제목을 이중 괄호 구문으로 본문에 추가할 수 있다.
-이 글의 제목은 github.io 블로그 시작하기이고
-마지막으로 수정된 시간은 2019-04-13 08:06:00 -0500이다.&lt;/p&gt;</content><author><name>Your Name</name></author><category term="Blog" /><summary type="html">GitHub Blog 서비스인 github.io 블로그 시작하기로 했다.</summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-16T20:29:17+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">테스트</title><subtitle>An amazing website.</subtitle><author><name>Your Name</name></author><entry><title type="html">스터디</title><link href="http://localhost:4000/blog/post/" rel="alternate" type="text/html" title="스터디" /><published>2020-05-19T00:00:00+09:00</published><updated>2019-04-13T22:06:00+09:00</updated><id>http://localhost:4000/blog/post</id><content type="html" xml:base="http://localhost:4000/blog/post/">&lt;p&gt;오늘 스터디를 했다.&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;주제는&quot;&gt;주제는?&lt;/h3&gt;
+&lt;h4 id=&quot;여러가지였다&quot;&gt;여러가지였다.&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;프린세스&lt;/li&gt;
+  &lt;li&gt;연애상담&lt;/li&gt;
+  &lt;li&gt;엽떡&lt;/li&gt;
+  &lt;li&gt;음악 들으면서 마크다운 테스트&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;인생은-오리무중&quot;&gt;인생은 오리무중&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&quot;www.naver.com&quot;&gt;어려운 게 너무 많아&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;wwww.daum.net&quot;&gt;우리는 어떻게 될까&lt;/a&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><category term="Blog" /><summary type="html">헛소리</summary></entry></feed>

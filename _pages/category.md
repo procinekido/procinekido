@@ -1,5 +1,5 @@
 ---
-title: "Category"
+title: "카테고리"
 permalink: /category/
 layout: single
 author_profile: false
